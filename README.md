@@ -1,7 +1,7 @@
 <div align="">
   <br />
     <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="https://github.com/whoswapnil/ARTICLE-SUMMARISER/blob/gh-pages/Img.jpeg" alt="Project Banner">
+      <img src="https://github.com/whoswapnil/ARTICLE-SUMMARISER/blob/gh-pages/Img.jpeg" align ="left"alt="Project Banner">
     </a>
   <br />
 
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An AI Article Summarizer Website</h3>
+  <h3>An AI Article Summarizer Website</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
