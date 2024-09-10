@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <br />
     <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
       <img src="https://github.com/whoswapnil/ARTICLE-SUMMARISER/blob/gh-pages/img.jpeg" alt="Project Banner">
